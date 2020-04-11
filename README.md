@@ -7,8 +7,8 @@
 - Thymeleaf 
 - Form login 
 - Spring Security 
---- Authentification x BD 
---- Authorization (Roles)
+> Authentification x BD 
+> Authorization (Roles)
 - Java 8
 - JPA (hibernate)
 - Data base (H2 o MySql)
